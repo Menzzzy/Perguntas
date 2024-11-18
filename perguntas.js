@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Curiosidades',
-    'Quantos te armazenamento o cérebro possui?',
+    'Quantos de armazenamento o cérebro possui?',
     'Em média 1 Milhão de "gigabytes" de armazenamento'
 )
 
